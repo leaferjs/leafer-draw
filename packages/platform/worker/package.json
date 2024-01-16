@@ -1,0 +1,32 @@
+{
+  "name": "@leafer-draw/worker",
+  "version": "1.0.0-rc.9",
+  "description": "@leafer-draw/worker",
+  "author": "Chao (Leafer) Wan",
+  "license": "MIT",
+  "main": "dist/worker.esm.js",
+  "unpkg": "dist/worker.js",
+  "jsdelivr": "dist/worker.js",
+  "types": "types/index.d.ts",
+  "files": ["src","types","dist"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leaferjs/draw.git"
+  },
+  "homepage": "https://github.com/leaferjs/draw/tree/main/packages/platform/worker",
+  "bugs": "https://github.com/leaferjs/draw/issues",
+  "keywords": [
+    "leafer draw worker",
+    "leafer-draw-worker",
+    "leafer-draw",
+    "leafer-ui",
+    "leaferjs"
+  ],
+  "dependencies": {
+    "@leafer/worker": "1.0.0-rc.9",
+    "@leafer-draw/partner": "1.0.0-rc.9",
+    "@leafer-ui/draw": "1.0.0-rc.9",
+    "@leafer-ui/partner": "1.0.0-rc.9",
+    "@leafer-ui/interface": "1.0.0-rc.9"
+  }
+}

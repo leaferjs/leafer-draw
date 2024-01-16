@@ -1,0 +1,29 @@
+{
+  "name": "@leafer-draw/web",
+  "version": "1.0.0-rc.9",
+  "description": "@leafer-draw/web",
+  "author": "Chao (Leafer) Wan",
+  "license": "MIT",
+  "main": "src/index.ts",
+  "types": "types/index.d.ts",
+  "files": ["src","types","dist"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leaferjs/draw.git"
+  },
+  "homepage": "https://github.com/leaferjs/draw/tree/main/packages/platform/web",
+  "bugs": "https://github.com/leaferjs/draw/issues",
+  "keywords": [
+    "leafer-draw",
+    "leafer-ui",
+    "leaferjs"
+  ],
+  "dependencies": {
+    "@leafer/core": "1.0.0-rc.9",
+    "@leafer/web": "1.0.0-rc.9",
+    "@leafer-draw/partner": "1.0.0-rc.9",
+    "@leafer-ui/draw": "1.0.0-rc.9",
+    "@leafer-ui/partner": "1.0.0-rc.9",
+    "@leafer-ui/interface": "1.0.0-rc.9"
+  }
+}
