@@ -1,6 +1,6 @@
 {
   "name": "leafer-draw",
-  "version": "1.0.0-rc.21",
+  "version": "1.0.0-rc.22",
   "author": "Chao (Leafer) Wan",
   "license": "MIT",
   "main": "dist/web.esm.js",
@@ -29,6 +29,6 @@
     "engine"
   ],
   "dependencies": {
-    "@leafer-draw/web": "1.0.0-rc.21"
+    "@leafer-draw/web": "1.0.0-rc.22"
   }
 }
