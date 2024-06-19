@@ -10,7 +10,7 @@
   "files": ["src","types","dist"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/leaferjs/draw"
+    "url": "https://github.com/leaferjs/draw.git"
   },
   "homepage": "https://github.com/leaferjs/draw",
   "bugs": "https://github.com/leaferjs/draw/issues",
