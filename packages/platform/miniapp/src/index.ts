@@ -7,5 +7,5 @@ export * from '@leafer-ui/partner'
 import { useCanvas } from '@leafer/miniapp'
 
 try {
-    useCanvas('wx', wx)
+    if (wx) useCanvas('miniapp', wx)
 } catch { }
