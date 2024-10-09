@@ -1,6 +1,6 @@
 {
   "name": "@leafer-draw/web",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "@leafer-draw/web",
   "author": "Chao (Leafer) Wan",
   "license": "MIT",
@@ -9,7 +9,7 @@
   "files": ["src","types","dist"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/leaferjs/draw.git"
+    "url": "https://github.com/leaferjs/leafer-draw.git"
   },
   "homepage": "https://github.com/leaferjs/draw/tree/main/packages/platform/web",
   "bugs": "https://github.com/leaferjs/draw/issues",
@@ -19,11 +19,11 @@
     "leaferjs"
   ],
   "dependencies": {
-    "@leafer/core": "1.0.4",
-    "@leafer/web": "1.0.4",
-    "@leafer-draw/partner": "1.0.4",
-    "@leafer-ui/draw": "1.0.4",
-    "@leafer-ui/partner": "1.0.4",
-    "@leafer-ui/interface": "1.0.4"
+    "@leafer/core": "1.0.5",
+    "@leafer/web": "1.0.5",
+    "@leafer-draw/partner": "1.0.5",
+    "@leafer-ui/draw": "1.0.5",
+    "@leafer-ui/partner": "1.0.5",
+    "@leafer-ui/interface": "1.0.5"
   }
 }
