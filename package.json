@@ -35,6 +35,6 @@
     "engine"
   ],
   "dependencies": {
-    "@leafer-draw/web": "1.3.3"
+    "@leafer-draw/web": "workspace:*"
   }
 }

@@ -29,11 +29,11 @@
     "leaferjs"
   ],
   "dependencies": {
-    "@leafer/worker": "1.3.3",
-    "@leafer-draw/partner": "1.3.3",
-    "@leafer-ui/draw": "1.3.3",
-    "@leafer-ui/partner": "1.3.3",
-    "@leafer-ui/interface": "1.3.3",
-    "@leafer-in/interface": "1.3.3"
+    "@leafer/worker": "workspace:*",
+    "@leafer-draw/partner": "workspace:*",
+    "@leafer-ui/draw": "workspace:*",
+    "@leafer-ui/partner": "workspace:*",
+    "@leafer-ui/interface": "workspace:*",
+    "@leafer-in/interface": "workspace:*"
   }
 }

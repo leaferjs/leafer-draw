@@ -19,12 +19,12 @@
     "leaferjs"
   ],
   "dependencies": {
-    "@leafer/core": "1.3.3",
-    "@leafer/web": "1.3.3",
-    "@leafer-draw/partner": "1.3.3",
-    "@leafer-ui/draw": "1.3.3",
-    "@leafer-ui/partner": "1.3.3",
-    "@leafer-ui/interface": "1.3.3",
-    "@leafer-in/interface": "1.3.3"
+    "@leafer/core": "workspace:*",
+    "@leafer/web": "workspace:*",
+    "@leafer-draw/partner": "workspace:*",
+    "@leafer-ui/draw": "workspace:*",
+    "@leafer-ui/partner": "workspace:*",
+    "@leafer-ui/interface": "workspace:*",
+    "@leafer-in/interface": "workspace:*"
   }
 }
