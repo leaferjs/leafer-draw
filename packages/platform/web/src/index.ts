@@ -1,11 +1,11 @@
 export * from '@leafer-ui/interface'
 
-export * from '@leafer/web'
+export * from './core'
 export * from '@leafer-draw/partner'
 
 export * from '@leafer-ui/draw'
 export * from '@leafer-ui/partner'
 
-import { useCanvas } from '@leafer/web'
+import { useCanvas } from './core'
 
 useCanvas('canvas')
