@@ -1,6 +1,6 @@
 {
   "name": "@leafer-draw/partner",
-  "version": "1.9.5",
+  "version": "1.9.6",
   "description": "@leafer-draw/partner",
   "author": "Chao (Leafer) Wan",
   "license": "MIT",
@@ -18,13 +18,13 @@
     "leaferjs"
   ],
   "dependencies": {
-    "@leafer/core": "1.9.5",
-    "@leafer/watcher": "1.9.5",
-    "@leafer/layouter": "1.9.5",
-    "@leafer/renderer": "1.9.5"
+    "@leafer/core": "1.9.6",
+    "@leafer/watcher": "1.9.6",
+    "@leafer/layouter": "1.9.6",
+    "@leafer/renderer": "1.9.6"
   },
   "devDependencies": {
-     "@leafer/interface": "1.9.5"
+     "@leafer/interface": "1.9.6"
   }
 }
 
