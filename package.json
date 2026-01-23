@@ -1,6 +1,6 @@
 {
   "name": "leafer-draw",
-  "version": "1.12.4",
+  "version": "2.0.0",
   "author": "Chao (Leafer) Wan",
   "license": "MIT",
   "type": "module",
@@ -35,7 +35,7 @@
     "engine"
   ],
   "dependencies": {
-    "@leafer-draw/web": "1.12.4",
-    "@leafer-ui/draw": "1.12.4"
+    "@leafer-draw/web": "2.0.0",
+    "@leafer-ui/draw": "2.0.0"
   }
 }
