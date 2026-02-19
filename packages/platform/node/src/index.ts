@@ -1,6 +1,6 @@
 export * from '@leafer-ui/interface'
 
-export * from './core'
+export * from '@leafer/node-core'
 export * from '@leafer-draw/partner'
 
 export * from '@leafer-ui/draw'

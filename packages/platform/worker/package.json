@@ -29,9 +29,7 @@
     "leaferjs"
   ],
   "dependencies": {
-    "@leafer/core": "2.0.1",
-    "@leafer/canvas-worker": "2.0.1",
-    "@leafer/image-worker": "2.0.1",
+    "@leafer/worker-core": "2.0.1",
     "@leafer-draw/partner": "2.0.1",
     "@leafer-ui/draw": "2.0.1",
     "@leafer-ui/partner": "2.0.1",
