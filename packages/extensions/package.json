@@ -1,0 +1,26 @@
+{
+  "name": "@leafer-draw/extensions",
+  "version": "2.0.3",
+  "description": "Leafer Draw extensions - Custom shapes, charts, and animations",
+  "author": "Chao (Leafer) Wan",
+  "license": "MIT",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "files": ["src"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leaferjs/leafer-draw.git"
+  },
+  "homepage": "https://github.com/leaferjs/leafer-draw/tree/main/packages/extensions",
+  "keywords": [
+    "leafer-draw",
+    "leafer-ui",
+    "charts",
+    "graphs",
+    "animations",
+    "canvas"
+  ],
+  "peerDependencies": {
+    "@leafer-ui/draw": "^2.0.3"
+  }
+}
